@@ -1,15 +1,6 @@
 Hi 👋 My name is Talisa Powell
 ==============================
 
-Future UI/UX designer
----------------------
-
-I recently graduated and am furthering my education by earning certifications in my desired fields.
-
-* 🌍  I'm based in South Carolina
-* ✉️  You can contact me at [talisapowell4961@gmail.com](mailto:talisapowell4961@gmail.com)
-* 🧠  I'm learning UI/UX
-
 ### Skills
 
 
